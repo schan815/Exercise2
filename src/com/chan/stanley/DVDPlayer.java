@@ -1,6 +1,7 @@
 package com.chan.stanley;
 
 public class DVDPlayer {
+	private int a;
 	boolean canRecord = false; //why is this false?
 	
 	//called a class constructor
